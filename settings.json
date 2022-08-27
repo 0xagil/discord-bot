@@ -1,0 +1,14 @@
+{
+    "invite": "",
+    "guildId": "",
+    "channelId": "",
+    "reactionChannel": "",
+    "messageContent": "",
+    "monitorToken1": "",
+    "monitorToken2": false,
+    "welcomeChannel": false,
+    "desiredName": "",
+    "profilePicture": "",
+    "maxThreads": 25,
+    "congruentThreads": 2
+}
