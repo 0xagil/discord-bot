@@ -23,9 +23,6 @@ This project started to learn how to reverse android apps.
 
 * Python 3.9 (tested under Python 3.9.12)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -37,11 +34,7 @@ Just check the code. I won't spoon feed you
 2. U need a captcha provider.
 3. U need Discord acounts.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
